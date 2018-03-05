@@ -1,0 +1,61 @@
+header{
+text-align:center;
+
+}
+
+html,body{
+background: url('../Bookimages/imperialguard.jpeg')top/cover no-repeat fixed;
+color: black; /*color of text*/
+font-size: 20px;
+}
+
+footer{
+  background-image: URL('../images/.jpg') center no-repeat;
+}
+section{
+  margin-top: 120px;
+  flex: 1 0 auto;
+}
+.bookblock{
+Background-color: darkolivegreen;
+width: 500px;
+}
+
+.bookpic{
+width:300px;
+text-align:center;
+border: line black;
+}
+
+.quote{
+  background: darkolivegreen;
+  width: 500px;
+  text-align: center;
+}
+.showcase img{
+  width: 100%;
+  height:100%;
+}
+
+.navbar-nav li > a:hover{
+  background-color: transparent;
+  color: black;
+  border: 3px solid Darkolivegreen;
+  border-radius: 20px;
+  padding:5px;
+}
+
+.nav nav-tabs a{
+  color: Black;
+  text-decoration: none;
+}
+.center-in-container{
+  margin-left: Auto;
+  margin-right: auto;
+}
+.active{
+  color: darkolivegreen;
+}
+.border{
+  border: solid 1px red;
+}
